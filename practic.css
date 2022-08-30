@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    /* justify-content: space-evenly; */
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    /* height: 500px; */
+    width: 100%;
+}
